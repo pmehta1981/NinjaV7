@@ -4,7 +4,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pageObjects.AccountPage;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;

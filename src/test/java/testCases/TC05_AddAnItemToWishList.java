@@ -10,6 +10,7 @@ import pageObjects.HomePage;
 import testBase.BaseClass;
 import utilities.RetryAnalyzer;
 
+
 public class TC05_AddAnItemToWishList extends BaseClass {
 
     private static final Logger log = LogManager.getLogger(TC05_AddAnItemToWishList.class);

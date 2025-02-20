@@ -9,6 +9,7 @@ import pageObjects.HomePage;
 import testBase.BaseClass;
 import utilities.RetryAnalyzer;
 
+
 public class TC06_PurchaseAGiftCertificate extends BaseClass {
 
     private static final Logger log = LogManager.getLogger(TC06_PurchaseAGiftCertificate.class);
